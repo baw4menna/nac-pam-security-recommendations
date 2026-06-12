@@ -66,5 +66,5 @@ A professional security solution recommendation developed for an IT/cybersecurit
 
 ## Files
 
-- `/docs/NAC\_PAM\_Recommendations.docx` – Original recommendation document
+- [`docsNAC_PAM_Recommendations.docx`](https://github.com/baw4menna/nac-pam-security-recommendations/tree/main/docs) – Original recommendation document
 
