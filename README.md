@@ -1,70 +1,70 @@
-"# NAC \& PAM Enterprise Security Recommendations"
+# NAC & PAM Enterprise Security Recommendations
 
 
 
-\## Project Overview
+## Project Overview
 
 A professional security solution recommendation developed for an IT/cybersecurity solutions firm, evaluating Network Access Control (NAC) and Privileged Access Management (PAM) platforms for enterprise deployment.
 
 
 
-\*\*Role:\*\* Security Solutions Consultant  
+**Role:** Security Solutions Consultant  
 
-\*\*Deliverable:\*\* 27+ technical requirement evaluation
-
-
-
-\## Solutions Recommended
+**Deliverable:** 27+ technical requirement evaluation
 
 
 
-\### Network Access Control (NAC) – Aruba ClearPass Policy Manager
-
-\- \*\*Deployment:\*\* Hybrid (on-premise + cloud management)
-
-\- \*\*High-availability:\*\* Multi-node cluster
-
-\- \*\*Authentication:\*\* RADIUS + TACACS+
-
-\- \*\*Device authentication:\*\* 802.1X + MAB
-
-\- \*\*MFA:\*\* Duo Security (push notifications, biometrics)
-
-\- \*\*IoT security:\*\* Profiling + firewall segmentation
-
-\- \*\*Integrations:\*\* AD (LDAP), firewalls (REST API), switches (SNMP), SIEM (Syslog)
+## Solutions Recommended
 
 
 
-\### Privileged Access Management (PAM) – BeyondTrust
+### Network Access Control (NAC) – Aruba ClearPass Policy Manager
 
-\- \*\*Deployment:\*\* Cloud/hybrid/on-premise
+- **Deployment:** Hybrid (on-premise + cloud management)
 
-\- \*\*Password management:\*\* Centralized vault + automated rotation
+- **High-availability:** Multi-node cluster
 
-\- \*\*Session management:\*\* Connection broker
+- **Authentication:** RADIUS + TACACS+
 
-\- \*\*Monitoring:\*\* Black box recorder with playback
+- **Device authentication:** 802.1X + MAB
 
-\- \*\*Break-glass access:\*\* Automated approval workflow
+- **MFA:** Duo Security (push notifications, biometrics)
 
-\- \*\*Privilege elevation:\*\* Temporary delegation (least privilege)
+- **IoT security:** Profiling + firewall segmentation
 
-
-
-\## Key Outcomes
-
-\- Zero-trust network access control architecture
-
-\- Elimination of static privileged passwords
-
-\- Complete forensic visibility with session recording
-
-\- IoT device isolation without core network exposure
+- **Integrations:** AD (LDAP), firewalls (REST API), switches (SNMP), SIEM (Syslog)
 
 
 
-\## Files
+### Privileged Access Management (PAM) – BeyondTrust
 
-\- `/docs/NAC\_PAM\_Recommendations.docx` – Original recommendation document
+- **Deployment:** Cloud/hybrid/on-premise
+
+- **Password management:** Centralized vault + automated rotation
+
+- **Session management:** Connection broker
+
+- **Monitoring:** Black box recorder with playback
+
+- **Break-glass access:** Automated approval workflow
+
+- **Privilege elevation:** Temporary delegation (least privilege)
+
+
+
+## Key Outcomes
+
+- Zero-trust network access control architecture
+
+- Elimination of static privileged passwords
+
+- Complete forensic visibility with session recording
+
+- IoT device isolation without core network exposure
+
+
+
+## Files
+
+- `/docs/NAC\_PAM\_Recommendations.docx` – Original recommendation document
 
